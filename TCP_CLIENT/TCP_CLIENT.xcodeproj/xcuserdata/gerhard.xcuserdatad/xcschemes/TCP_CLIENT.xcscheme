@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A3359B321DFDA2830078717E"
+               BlueprintIdentifier = "A3F1DC331DFDA83400FE2354"
                BuildableName = "TCP_CLIENT"
                BlueprintName = "TCP_CLIENT"
                ReferencedContainer = "container:TCP_CLIENT.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A3359B321DFDA2830078717E"
+            BlueprintIdentifier = "A3F1DC331DFDA83400FE2354"
             BuildableName = "TCP_CLIENT"
             BlueprintName = "TCP_CLIENT"
             ReferencedContainer = "container:TCP_CLIENT.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A3359B321DFDA2830078717E"
+            BlueprintIdentifier = "A3F1DC331DFDA83400FE2354"
             BuildableName = "TCP_CLIENT"
             BlueprintName = "TCP_CLIENT"
             ReferencedContainer = "container:TCP_CLIENT.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A3359B321DFDA2830078717E"
+            BlueprintIdentifier = "A3F1DC331DFDA83400FE2354"
             BuildableName = "TCP_CLIENT"
             BlueprintName = "TCP_CLIENT"
             ReferencedContainer = "container:TCP_CLIENT.xcodeproj">

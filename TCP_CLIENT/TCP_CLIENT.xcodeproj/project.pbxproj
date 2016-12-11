@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A3F1DC241DFDA5F300FE2354 /* simple_message_client_commandline_handling.c in Sources */ = {isa = PBXBuildFile; fileRef = A3F1DC211DFDA5F300FE2354 /* simple_message_client_commandline_handling.c */; };
-		A3F1DC251DFDA5F300FE2354 /* simple_message_client.c in Sources */ = {isa = PBXBuildFile; fileRef = A3F1DC231DFDA5F300FE2354 /* simple_message_client.c */; };
+		A3F1DC411DFDA84F00FE2354 /* simple_message_client_commandline_handling.c in Sources */ = {isa = PBXBuildFile; fileRef = A3F1DC3E1DFDA84F00FE2354 /* simple_message_client_commandline_handling.c */; };
+		A3F1DC421DFDA84F00FE2354 /* simple_message_client.c in Sources */ = {isa = PBXBuildFile; fileRef = A3F1DC401DFDA84F00FE2354 /* simple_message_client.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		A3359B311DFDA2830078717E /* CopyFiles */ = {
+		A3F1DC321DFDA83400FE2354 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -24,14 +24,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A3359B331DFDA2830078717E /* TCP_CLIENT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TCP_CLIENT; sourceTree = BUILT_PRODUCTS_DIR; };
-		A3F1DC211DFDA5F300FE2354 /* simple_message_client_commandline_handling.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = simple_message_client_commandline_handling.c; path = ../../../VCS_TCPIP/simple_message_client_commandline_handling.c; sourceTree = "<group>"; };
-		A3F1DC221DFDA5F300FE2354 /* simple_message_client_commandline_handling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = simple_message_client_commandline_handling.h; path = ../../../VCS_TCPIP/simple_message_client_commandline_handling.h; sourceTree = "<group>"; };
-		A3F1DC231DFDA5F300FE2354 /* simple_message_client.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = simple_message_client.c; path = ../../../VCS_TCPIP/simple_message_client.c; sourceTree = "<group>"; };
+		A3F1DC341DFDA83400FE2354 /* TCP_CLIENT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TCP_CLIENT; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3F1DC3E1DFDA84F00FE2354 /* simple_message_client_commandline_handling.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = simple_message_client_commandline_handling.c; path = ../../../VCS_TCPIP/simple_message_client_commandline_handling.c; sourceTree = "<group>"; };
+		A3F1DC3F1DFDA84F00FE2354 /* simple_message_client_commandline_handling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = simple_message_client_commandline_handling.h; path = ../../../VCS_TCPIP/simple_message_client_commandline_handling.h; sourceTree = "<group>"; };
+		A3F1DC401DFDA84F00FE2354 /* simple_message_client.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = simple_message_client.c; path = ../../../VCS_TCPIP/simple_message_client.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A3359B301DFDA2830078717E /* Frameworks */ = {
+		A3F1DC311DFDA83400FE2354 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,28 +41,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A3359B2A1DFDA2830078717E = {
+		A3F1DC2B1DFDA83400FE2354 = {
 			isa = PBXGroup;
 			children = (
-				A3359B351DFDA2830078717E /* TCP_CLIENT */,
-				A3359B341DFDA2830078717E /* Products */,
+				A3F1DC361DFDA83400FE2354 /* TCP_CLIENT */,
+				A3F1DC351DFDA83400FE2354 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A3359B341DFDA2830078717E /* Products */ = {
+		A3F1DC351DFDA83400FE2354 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A3359B331DFDA2830078717E /* TCP_CLIENT */,
+				A3F1DC341DFDA83400FE2354 /* TCP_CLIENT */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A3359B351DFDA2830078717E /* TCP_CLIENT */ = {
+		A3F1DC361DFDA83400FE2354 /* TCP_CLIENT */ = {
 			isa = PBXGroup;
 			children = (
-				A3F1DC211DFDA5F300FE2354 /* simple_message_client_commandline_handling.c */,
-				A3F1DC221DFDA5F300FE2354 /* simple_message_client_commandline_handling.h */,
-				A3F1DC231DFDA5F300FE2354 /* simple_message_client.c */,
+				A3F1DC3E1DFDA84F00FE2354 /* simple_message_client_commandline_handling.c */,
+				A3F1DC3F1DFDA84F00FE2354 /* simple_message_client_commandline_handling.h */,
+				A3F1DC401DFDA84F00FE2354 /* simple_message_client.c */,
 			);
 			path = TCP_CLIENT;
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A3359B321DFDA2830078717E /* TCP_CLIENT */ = {
+		A3F1DC331DFDA83400FE2354 /* TCP_CLIENT */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A3359B3A1DFDA2830078717E /* Build configuration list for PBXNativeTarget "TCP_CLIENT" */;
+			buildConfigurationList = A3F1DC3B1DFDA83400FE2354 /* Build configuration list for PBXNativeTarget "TCP_CLIENT" */;
 			buildPhases = (
-				A3359B2F1DFDA2830078717E /* Sources */,
-				A3359B301DFDA2830078717E /* Frameworks */,
-				A3359B311DFDA2830078717E /* CopyFiles */,
+				A3F1DC301DFDA83400FE2354 /* Sources */,
+				A3F1DC311DFDA83400FE2354 /* Frameworks */,
+				A3F1DC321DFDA83400FE2354 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -84,55 +84,55 @@
 			);
 			name = TCP_CLIENT;
 			productName = TCP_CLIENT;
-			productReference = A3359B331DFDA2830078717E /* TCP_CLIENT */;
+			productReference = A3F1DC341DFDA83400FE2354 /* TCP_CLIENT */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A3359B2B1DFDA2830078717E /* Project object */ = {
+		A3F1DC2C1DFDA83400FE2354 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = Gerhard;
 				TargetAttributes = {
-					A3359B321DFDA2830078717E = {
+					A3F1DC331DFDA83400FE2354 = {
 						CreatedOnToolsVersion = 8.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = A3359B2E1DFDA2830078717E /* Build configuration list for PBXProject "TCP_CLIENT" */;
+			buildConfigurationList = A3F1DC2F1DFDA83400FE2354 /* Build configuration list for PBXProject "TCP_CLIENT" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = A3359B2A1DFDA2830078717E;
-			productRefGroup = A3359B341DFDA2830078717E /* Products */;
+			mainGroup = A3F1DC2B1DFDA83400FE2354;
+			productRefGroup = A3F1DC351DFDA83400FE2354 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A3359B321DFDA2830078717E /* TCP_CLIENT */,
+				A3F1DC331DFDA83400FE2354 /* TCP_CLIENT */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A3359B2F1DFDA2830078717E /* Sources */ = {
+		A3F1DC301DFDA83400FE2354 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3F1DC251DFDA5F300FE2354 /* simple_message_client.c in Sources */,
-				A3F1DC241DFDA5F300FE2354 /* simple_message_client_commandline_handling.c in Sources */,
+				A3F1DC421DFDA84F00FE2354 /* simple_message_client.c in Sources */,
+				A3F1DC411DFDA84F00FE2354 /* simple_message_client_commandline_handling.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A3359B381DFDA2830078717E /* Debug */ = {
+		A3F1DC391DFDA83400FE2354 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -179,7 +179,7 @@
 			};
 			name = Debug;
 		};
-		A3359B391DFDA2830078717E /* Release */ = {
+		A3F1DC3A1DFDA83400FE2354 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -219,14 +219,14 @@
 			};
 			name = Release;
 		};
-		A3359B3B1DFDA2830078717E /* Debug */ = {
+		A3F1DC3C1DFDA83400FE2354 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		A3359B3C1DFDA2830078717E /* Release */ = {
+		A3F1DC3D1DFDA83400FE2354 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -236,25 +236,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A3359B2E1DFDA2830078717E /* Build configuration list for PBXProject "TCP_CLIENT" */ = {
+		A3F1DC2F1DFDA83400FE2354 /* Build configuration list for PBXProject "TCP_CLIENT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A3359B381DFDA2830078717E /* Debug */,
-				A3359B391DFDA2830078717E /* Release */,
+				A3F1DC391DFDA83400FE2354 /* Debug */,
+				A3F1DC3A1DFDA83400FE2354 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A3359B3A1DFDA2830078717E /* Build configuration list for PBXNativeTarget "TCP_CLIENT" */ = {
+		A3F1DC3B1DFDA83400FE2354 /* Build configuration list for PBXNativeTarget "TCP_CLIENT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A3359B3B1DFDA2830078717E /* Debug */,
-				A3359B3C1DFDA2830078717E /* Release */,
+				A3F1DC3C1DFDA83400FE2354 /* Debug */,
+				A3F1DC3D1DFDA83400FE2354 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A3359B2B1DFDA2830078717E /* Project object */;
+	rootObject = A3F1DC2C1DFDA83400FE2354 /* Project object */;
 }

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3E96B3BAF4B613BFDB4F9F5BF835212539FDE21A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "954F7A94A0DDF6C7806DE869F554BAA16BEA3E8E" : 9223372036854775807,
+    "3E96B3BAF4B613BFDB4F9F5BF835212539FDE21A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7B38E74-0583-4211-8674-FF5E34E17EBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "954F7A94A0DDF6C7806DE869F554BAA16BEA3E8E" : "VCS_TCPIP\/",
+    "3E96B3BAF4B613BFDB4F9F5BF835212539FDE21A" : "VCS_TCPIP_XCODE\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TCP_CLIENT",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TCP_CLIENT\/TCP_CLIENT.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KaMiGeKaMuSa\/VCS_TCPIP_XCODE.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E96B3BAF4B613BFDB4F9F5BF835212539FDE21A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KaMiGeKaMuSa\/VCS_TCPIP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "954F7A94A0DDF6C7806DE869F554BAA16BEA3E8E"
+    }
+  ]
+}
